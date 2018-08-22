@@ -29,5 +29,10 @@ int main(){
 				cout << endl;
 			}
 
+		cout << "Press Enter to Exit" ;
+		cout << endl;
+
+		cin.ignore(); //Consume Cariage Return
+		cin.ignore(); //Pause for user to press ENTER
 		return 0;
 	}
