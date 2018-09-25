@@ -45,6 +45,7 @@ void linked_list::display_list(){
 	Node *head =this->head;
 	int i ;
 	i =1;
+
 	while(head){
 		cout << i <<":"<<head->data;
 		cout << endl;
@@ -66,6 +67,7 @@ void linked_list::search_item(){
 	Node *head = this->head;
 	int i;
 	i = 1;
+		
 	while(head){
 		if(head->data == search_element){
 			cout << "Item Found at position "<<i;
