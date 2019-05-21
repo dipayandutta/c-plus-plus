@@ -38,7 +38,7 @@ int main(void){
   cout << "Enter employee name ";
   cin.getline(name,30);
   cout << endl;
-  
+
   cout << "Enter Employee ID ";
   cin >> id;
 
