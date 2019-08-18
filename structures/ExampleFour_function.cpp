@@ -12,7 +12,7 @@ void printInformation(Employee); /*function declearation*/
 void printInformation(Employee emp){
   std::cout<< "Id :" << emp.id;
   std::cout << std::endl;
-  
+
   std::cout << "Age :" << emp.age;
   std::cout << std::endl;
 
