@@ -1,0 +1,4 @@
+module texteditor
+typeinfo texteditorexample.qmltypes
+prefer :/
+

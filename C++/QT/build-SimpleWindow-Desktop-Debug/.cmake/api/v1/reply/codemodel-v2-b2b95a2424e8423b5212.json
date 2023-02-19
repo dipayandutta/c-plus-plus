@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-e1dc750b6d76d6d71aec.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "SimpleWindow",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "SimpleWindow::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-SimpleWindow-Debug-9805b19aacfca02b46e2.json",
+					"name" : "SimpleWindow",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "SimpleWindow_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-SimpleWindow_autogen-Debug-d34fe1937cc976604a7b.json",
+					"name" : "SimpleWindow_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "SimpleWindow_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-SimpleWindow_autogen_timestamp_deps-Debug-d42e2e6831d827ed9a07.json",
+					"name" : "SimpleWindow_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/dipayan/WORK/C++/QT/build-SimpleWindow-Desktop-Debug",
+		"source" : "/home/dipayan/WORK/C++/QT/SimpleWindow"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

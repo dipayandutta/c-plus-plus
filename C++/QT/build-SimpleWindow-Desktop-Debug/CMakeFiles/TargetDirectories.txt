@@ -1,0 +1,9 @@
+/home/dipayan/WORK/C++/QT/build-SimpleWindow-Desktop-Debug/CMakeFiles/SimpleWindow.dir
+/home/dipayan/WORK/C++/QT/build-SimpleWindow-Desktop-Debug/CMakeFiles/edit_cache.dir
+/home/dipayan/WORK/C++/QT/build-SimpleWindow-Desktop-Debug/CMakeFiles/rebuild_cache.dir
+/home/dipayan/WORK/C++/QT/build-SimpleWindow-Desktop-Debug/CMakeFiles/list_install_components.dir
+/home/dipayan/WORK/C++/QT/build-SimpleWindow-Desktop-Debug/CMakeFiles/install.dir
+/home/dipayan/WORK/C++/QT/build-SimpleWindow-Desktop-Debug/CMakeFiles/install/local.dir
+/home/dipayan/WORK/C++/QT/build-SimpleWindow-Desktop-Debug/CMakeFiles/install/strip.dir
+/home/dipayan/WORK/C++/QT/build-SimpleWindow-Desktop-Debug/CMakeFiles/SimpleWindow_autogen_timestamp_deps.dir
+/home/dipayan/WORK/C++/QT/build-SimpleWindow-Desktop-Debug/CMakeFiles/SimpleWindow_autogen.dir

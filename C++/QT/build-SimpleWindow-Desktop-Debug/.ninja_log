@@ -1,0 +1,9 @@
+# ninja log v5
+0	193	1676654569570085910	SimpleWindow_autogen/timestamp	df5dcfe61f56f41d
+0	193	1676654569570085910	SimpleWindow_autogen/mocs_compilation.cpp	df5dcfe61f56f41d
+0	193	1676654569570085910	/home/dipayan/WORK/C++/QT/build-SimpleWindow-Desktop-Debug/SimpleWindow_autogen/timestamp	df5dcfe61f56f41d
+0	193	1676654569570085910	/home/dipayan/WORK/C++/QT/build-SimpleWindow-Desktop-Debug/SimpleWindow_autogen/mocs_compilation.cpp	df5dcfe61f56f41d
+193	1514	1676654570894049208	CMakeFiles/SimpleWindow.dir/main.cpp.o	bb1e989137d1409b
+193	1885	1676654571266038932	CMakeFiles/SimpleWindow.dir/SimpleWindow_autogen/mocs_compilation.cpp.o	cac6599773353d87
+193	1890	1676654571270038822	CMakeFiles/SimpleWindow.dir/mainwindow.cpp.o	6c48c1bd5c82b65c
+1890	2163	1676654571542031316	SimpleWindow	40b07298c40b3d62

@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/">
+    <file alias="qmldir">/home/dipayan/WORK/C++/QT/build-texteditor-Desktop-Debug/texteditor/qmldir</file>
+  </qresource>
+</RCC>
+

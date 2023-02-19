@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>Donald.png</file>
+        <file>Animation.gif</file>
+    </qresource>
+</RCC>

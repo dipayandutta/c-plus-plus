@@ -1,0 +1,9 @@
+/home/dipayan/WORK/C++/QT/build-Window-Desktop-Debug/CMakeFiles/Window.dir
+/home/dipayan/WORK/C++/QT/build-Window-Desktop-Debug/CMakeFiles/edit_cache.dir
+/home/dipayan/WORK/C++/QT/build-Window-Desktop-Debug/CMakeFiles/rebuild_cache.dir
+/home/dipayan/WORK/C++/QT/build-Window-Desktop-Debug/CMakeFiles/list_install_components.dir
+/home/dipayan/WORK/C++/QT/build-Window-Desktop-Debug/CMakeFiles/install.dir
+/home/dipayan/WORK/C++/QT/build-Window-Desktop-Debug/CMakeFiles/install/local.dir
+/home/dipayan/WORK/C++/QT/build-Window-Desktop-Debug/CMakeFiles/install/strip.dir
+/home/dipayan/WORK/C++/QT/build-Window-Desktop-Debug/CMakeFiles/Window_autogen_timestamp_deps.dir
+/home/dipayan/WORK/C++/QT/build-Window-Desktop-Debug/CMakeFiles/Window_autogen.dir

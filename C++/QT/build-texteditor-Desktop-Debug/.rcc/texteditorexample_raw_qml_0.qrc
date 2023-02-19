@@ -1,0 +1,11 @@
+<RCC>
+  <qresource prefix="/">
+    <file alias="qml/+touch/texteditor.qml">/home/dipayan/WORK/C++/QT/texteditor/qml/+touch/texteditor.qml</file>
+    <file alias="qml/texteditor.qml">/home/dipayan/WORK/C++/QT/texteditor/qml/texteditor.qml</file>
+    <file alias="texteditor.html">/home/dipayan/WORK/C++/QT/texteditor/texteditor.html</file>
+    <file alias="+touch/texteditor.html">/home/dipayan/WORK/C++/QT/texteditor/+touch/texteditor.html</file>
+    <file alias="fonts/fontello.ttf">/home/dipayan/WORK/C++/QT/texteditor/fonts/fontello.ttf</file>
+    <file alias="images/qt-logo.png">/home/dipayan/WORK/C++/QT/texteditor/images/qt-logo.png</file>
+  </qresource>
+</RCC>
+

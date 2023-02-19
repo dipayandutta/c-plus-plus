@@ -1,0 +1,15 @@
+-rootPath
+/home/dipayan/WORK/C++/QT/texteditor
+-cmake-output
+-output-file
+/home/dipayan/WORK/C++/QT/build-texteditor-Desktop-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_texteditorexample.cmake
+-importPath
+/home/dipayan/WORK/C++/QT/build-texteditor-Desktop-Debug/texteditor
+-importPath
+/home/dipayan/WORK/C++/QT/build-texteditor-Desktop-Debug
+-importPath
+/opt/Qt/6.4.2/gcc_64/./qml
+-qrcFiles
+/home/dipayan/WORK/C++/QT/build-texteditor-Desktop-Debug/.rcc/qmake_texteditor.qrc
+/home/dipayan/WORK/C++/QT/build-texteditor-Desktop-Debug/.rcc/qmake_texteditor_copy.qrc
+/home/dipayan/WORK/C++/QT/build-texteditor-Desktop-Debug/.rcc/texteditorexample_raw_qml_0.qrc
